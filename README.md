@@ -31,7 +31,6 @@
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/JoecheleLim/glorious-python-tutor.git](https://github.com/JoecheleLim/glorious-python-tutor.git)
-    cd glorious-python-tutor
     ```
 
 2.  **Environment Setup (Miniconda):**
