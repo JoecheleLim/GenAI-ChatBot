@@ -67,6 +67,8 @@
 * `index_functions.py`: Handles data loading and LlamaIndex vector storage.
 * `helper_functions.py`: Logic for generating AI responses with streaming.
 * `logo.png`: The brand assets for the application.
+* `data/`: The local repository for source documents (knowledge base) used for Retrieval-Augmented Generation.
+* `requirements.txt`: A manifest of all necessary Python packages required to reproduce the environment.
 
 ---
 
