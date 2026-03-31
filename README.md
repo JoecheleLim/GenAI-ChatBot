@@ -17,7 +17,8 @@
 ## 🛠️ Tech Stack
 
 * **Frontend:** [Streamlit](https://streamlit.io/)
-* **AI Models:** * `Gemini 3 Flash (Preview)`: For lightning-fast responses.
+* **AI Models:**
+    * `Gemini 3 Flash (Preview)`: For lightning-fast responses.
     * `Gemini 2.5 Pro`: For complex architectural and logic questions.
     * `Gemini 2.5 Flash`: For stable, daily assistance.
 * **Data Framework:** [LlamaIndex](https://www.llamaindex.ai/) (Vector Indexing)
